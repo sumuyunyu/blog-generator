@@ -106,3 +106,14 @@ deploy:
   type: git
   repo: git@github.com:sumuyunyu/sumuyunyu.github.io.git
   branch: master
+
+index:
+  slogan:
+    enable: true
+    text: 又是新的一天
+    api:
+      # enable: false
+      # url: "https://v1.hitokoto.cn/"
+      # method: "GET"
+      # headers: {}
+      # keys: ["hitokoto"]
