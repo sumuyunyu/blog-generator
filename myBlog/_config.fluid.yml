@@ -132,6 +132,8 @@ navbar:
 tag:
   banner_img: /img/wall.jpg
 
+archive:
+  banner_img: /img/wall.jpg
 #---------------------------
 # 关于页
 # About Page
