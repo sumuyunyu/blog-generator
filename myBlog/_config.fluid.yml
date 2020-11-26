@@ -120,7 +120,8 @@ index:
   
 navbar:
   blog_title: 静谧空间
-  banner_img: /img/wall.jpg
+  
+banner_img: /img/wall.jpg
 
 #---------------------------
 # 关于页
