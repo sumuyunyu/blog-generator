@@ -1,7 +1,11 @@
 ---
 title: 如何使用hexo创建一篇新的博客
 date: 2020-11-26 16:50:33
+categories:
+- Hexo博客搭建
 tags:
+- hexo
+- 博客
 ---
 
 
